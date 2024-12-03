@@ -1,6 +1,6 @@
 # Aryan Kandula
-# 12/03/2024
-# P2HW1_TravelExpenses
+# 11/23/2024
+# P2HW1
 # This program calculates and displays travel expenses with formatted output.
 
 print("This program calculates and displays travel expenses")
