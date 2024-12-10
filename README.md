@@ -1,4 +1,4 @@
 # CTI 110 Repository
-Created for P1LAB1
+Created for CTI 110 Assignments
 Kandula
 11/18/2024
